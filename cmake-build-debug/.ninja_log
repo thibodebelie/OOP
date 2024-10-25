@@ -1,0 +1,8 @@
+# ninja log v6
+3	14	1729851315772746525	TicTacToe_autogen/timestamp	df09b0409442968b
+2057	2293	1729850919862596072	TicTacToe	dd8a4ebcb7530d71
+3	14	1729851315772746525	TicTacToe_autogen/mocs_compilation.cpp	df09b0409442968b
+3	14	1729851315772746525	/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/TicTacToe_autogen/timestamp	df09b0409442968b
+3	14	1729851315772746525	/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/TicTacToe_autogen/mocs_compilation.cpp	df09b0409442968b
+23	33	1729850833362907773	CMakeFiles/TicTacToe.dir/TicTacToe_autogen/mocs_compilation.cpp.o	2ae0585e55b79ab
+14	2108	1729851315782746605	CMakeFiles/TicTacToe.dir/main.cpp.o	b353e3d217e5848e

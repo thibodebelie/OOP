@@ -1,0 +1,9 @@
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/install.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/install/local.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen_timestamp_deps.dir
+/home/thibodebelie/Documents/School/Ba3/Semester 1/Objectgeoriënteerd_programmeren/Les 6/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen.dir
